@@ -1207,9 +1207,9 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x02_Socket"
-			(at 0 2.965001 90)
-			(layer "F.Fab")
+		(property "Value" "Power"
+			(at 2.1336 0.770392 180)
+			(layer "F.SilkS")
 			(uuid "70d97161-645c-4e8f-9fbb-509245861b34")
 			(effects
 				(font
@@ -1433,7 +1433,7 @@
 			(uuid "6eb1a82d-6a93-4ed1-8924-121663e1ad45")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0.635 360)
+			(at 0 0.635 0)
 			(layer "F.Fab")
 			(uuid "7e06d38a-8cca-480a-aa92-2b96d3ffd52e")
 			(effects
@@ -12154,7 +12154,7 @@
 			(uuid "86e1c1c3-0b89-4b15-8add-281bfbd3f8db")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 4.445001 360)
+			(at 0 4.445001 0)
 			(layer "F.Fab")
 			(uuid "4b279892-5d29-41c5-8d79-c7ffd00d17f3")
 			(effects
@@ -35685,7 +35685,7 @@
 		)
 		(polygon
 			(pts
-				(xy 103.2256 22.098) (xy 257.2004 22.098) (xy 257.2004 96.4692) (xy 257.2004 96.4692) (xy 103.2256 96.4692)
+				(xy 103.2256 22.098) (xy 257.2004 22.098) (xy 257.2004 96.4692) (xy 103.2256 96.4692)
 			)
 		)
 		(filled_polygon

@@ -8769,7 +8769,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4020aa9e-a4e7-4701-853b-986088bcb382")
 		(property "Reference" "J11"
 			(at 21.59 30.4799 0)
@@ -8780,14 +8779,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x02_Socket"
-			(at 21.59 31.7499 0)
+		(property "Value" "Power"
+			(at 22.098 33.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
